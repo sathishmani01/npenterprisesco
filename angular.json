@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "npapp"
+    }
+  },
+  "defaultProject": "npapp",
+  "cli": {
+    "analytics": "b21afc4e-1e1f-4b68-b0aa-8ba231755e2c"
+  }
 }
